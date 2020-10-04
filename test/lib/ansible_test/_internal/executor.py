@@ -146,6 +146,7 @@ HTTPTESTER_HOSTS = (
     'ansible.http.tests',
     'sni1.ansible.http.tests',
     'fail.ansible.http.tests',
+    'self-signed.ansible.http.tests',
 )
 
 
